@@ -26,3 +26,7 @@ The plugin works by looping over the attribute and then detects the screen width
 The plugin will fire on window resize and there is a throttler in place to aid with performance.
 
 Enjoy!
+
+## License
+
+The code and the documentation are released under the [MIT License](LICENSE).
